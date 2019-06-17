@@ -1,0 +1,44 @@
+Anonymous Ambiguity
+Beautiful Brightness
+Critical Clearness
+Distrustful Determination
+Endless Elasticity
+Fragmented Fiction
+
+"Moore's law," an empirical rule that the number of transistors on an integrated circuit doubles every 1.5 years, is said to be inapplicable due to the limitations of semiconductor manufacturing technology in the future.
+
+One can hear one's highly relevant topics even though so many people are chattering (the "cocktail party effect").
+
+In some software, time is represented in a signed 32-bit integer, which will overflow and is believed to cause problems in many computer systems from January 19, 2038. ("The Year 2038 problem")
+
+This work depicts the mystical nature of the problem as the photogenic figure, designed to impress a different aspect of the image.
+
+This work is designed to inject the elasticity of the objects into visitors' mind.
+It is a refutation against executive and peer-read attitude in this modern society.
+
+How faciallity do you feel about this problem?
+Through this work, an idea about "deconstruction of the proposition" is turned into reality.
+
+Title
+Text
+Tablet
+Arduino Uno
+Pen Holder
+HTC VIVE Base Stations
+Oculus Rift Cameras
+Origami Crane
+Armadillo
+Bunny
+Faucet
+
+"Oracle" with a Breakout Board
+Condenser Microphone with a Breakout Board
+"Oracle"
+Lithium Rechargeable Battery
+Micro SD Memory Card Connector
+Wi-Fi Module
+Piezoelectric Speaker
+
+v0.1
+v0.5
+v1.0

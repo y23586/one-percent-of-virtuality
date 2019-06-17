@@ -1,0 +1,46 @@
+「1%の仮想」展
+「1%の本質」展
+
+Exhibition: 1% of Virtuality
+From September 22 to 23, 2018
+From October 13 to 14, 2018
+in VRChat
+
+ENTER
+MUSEUM SHOP (FREE)
+
+写真・動画撮影・ライブはご自由にどうぞ。ただし、映り込むアバターに関しては自己責任でお願いします。
+館内では自由におしゃべりしていただいてかまいません。
+展示物のサイズの関係で1.5m前後の身長のアバターを推奨します。
+
+Help me to translate this world into English/Chinese/Korean!
+
+Shaders
+Models
+Asset/Music/etc.
+
+[ジャケット撮影場所（Ennichi Playground）提供]
+@gst_kkgr
+digitalghost.booth.pm
+
+Credits:
+・VRChat, VRChat Home Kit, https://docs.vrchat.com/docs/vrchat-home-kit
+・キツネツキ(kitsune_tsuki), キツネツキ式櫻歌ミコver.2.00, http://www.nicovideo.jp/watch/sm22517044
+  ・櫻歌ミコ公式サイト「みこみこうしき」：http://miko35.info/
+・キツネツキ(kitsune_tsuki), オリキャラ3Dモデル「右近」, http://seiga.nicovideo.jp/seiga/im8378009
+・無料フリーイラスト素材集【Frame illust】, https://frame-illust.com/
+・MaxMind, GeoLite2, CC BY-SA 4.0 International, https://dev.maxmind.com/ja/geolite2/
+  ・This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com.
+・Gustavo Paz, Anita Semi-square Font, CC BY-SA 4.0 International, https://www.1001fonts.com/anita-semi-square-font.html
+・Bogdan Rosu, Glypho, CC 3.0 BY, https://www.flaticon.com/packs/glypho
+・Stanford Computer Graphics Laboratory, Stanford Bunny, http://graphics.stanford.edu/data/3Dscanrep/
+・Martin Newell, Utah Teapot, http://inst.eecs.berkeley.edu/~cs184/sp09/assignments/AS6.html
+・Willem-Paul van Overbruggen, Suzanne, GNU GPL, https://www.blender.org/
+
+Special Thanks:
+・iwashi farmおよびフレンドの皆様（技術・デバッグ協力）
+・TwoLeaf(@Hibihira_Mii)さん（技術協力）
+・kakigori/obake(@gst_kkgr)さん, Logic(@takklogic)さん, 皿洗い(@wrx_overrun)さん（ジャケット写真提供）
+・National Aeronautics and Space Administration
+
+Part of the works in this exhibition are released under Creative Commons Attribution-ShareAlike 3.0 license or the GNU GPL license, and are distributed as a part of this world by the VRChat server.

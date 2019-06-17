@@ -1,0 +1,52 @@
+"Material" is data that defines how models are rendered in Unity, the 2D/3D game engine on which VRChat is based.
+Works in this space cause various mismatches only by changing materials of 3D models.
+
+VRChat users tend to stack pickable objects even though it is just a fool's errand.
+Objects in this space satisfy your "desire to stack."
+
+In this space, once you step on footprints, a strange phenomenon will happen that won't occur in reality.
+Only you might be able to observe it or vice versa.
+
+Have you ever been puzzled to see a radical avant-garde art?
+You can use this work to see whether people can manage to find any meaning from randomly generated objects and description.
+You can place this work anywhere in this venue.
+Make sure to set the front side toward visitors.
+
+"Charts" are sometimes dull and boring that make people understand meaningful information in this world.
+Works in this room are designed to entertain the audience in VR.
+
+This work visualizes color histogram of photos (631 shots, 1.05GB, May to July 2018) taken by me (y23586) since I started to dive into VRChat worlds.
+
+This work visualizes the number of subscribers and icon colors of YouTube channels by GPU particles, that ranked top 512 containing the word "Virtual" or "VTuber."
+(Top 5 channels are visualized as stars)
+(As of September 16, 2018)
+
+"Works" are completed only when both the author and visitors exist.
+In this room, I exhibit some works which exist in interactive "space" between the artist and audience, as well as amongst the audience.
+
+This work visualizes the distance between the viewer and the other visitors through longitude and latitude information fetched from the visitors' IP addresses.
+Do you think the "distance" you feel in virtual space is closer than shown in this work?
+
+This work shows the proportion of the total number of online players on VRChat in the world population obtained from the Internet, as the time between 00:00 to 23:59.
+While we are still on the long road ahead, but once this clock goes past 23:59:59 (i.e., everyone in this world is in VR), Virtual Reality will transform into the new "Reality" for us.
+
+Wings of jewel beetles are metaphors for ambitiousness and equivocation, that caused by multiple reflections from the wing surfaces in which phase shift and interference of the reflections modulates the incidental light (structural color).
+This work represents the ambiguous things by iridescence.
+
+This sign can be read only by holding a VRChat camera.
+Although nothing is displayed here, if you are with someone who does not have an HMD around you, please tell him/her how "this work" looks like and how it attracts you by using your imagination.
+When the person visits here again with an HMD, a new work may be born.
+
+The works in this room cannot exist in reality, because they are the products of imagination which have a slight amount of components (like "1%").
+However, is that the essential matter?
+
+In the theory of computation, the concept which can solve any decision problems in a single step is called "oracle machine."
+This Smart Speaker can reply to any questions correctly by installing an "Oracle" integrated circuit.
+
+VRC_WebPanel is one of the components included in VRCSDK, and it had been used to display websites in VRChat worlds.
+VRC_WebPanel had been expanding the possibility of VRChat for a long time by providing many functions made by users, by using Coherent UI that contains a vulnerability.
+["Void Void Cube," a work planned to be displayed at this location, was removed by the deletion of VRC_WebPanel]
+
+This exhibition does not exist in reality.
+We are dreaming that we are here by watching brilliant rays come from an HMD or a screen.
+I'm happy if you feel what is "Virtuality" through this exhibition.

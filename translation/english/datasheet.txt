@@ -1,0 +1,38 @@
+Y23586.NET
+0R4CLE/P, 0R4CLE/F
+YOTSUMI CMOS Digital Integrated Circuit Silicon Monolithic
+Synchronous Oracle with Reset
+
+0R4CLE is an "Oracle" fabricated with silicon gate CMOS technology. It replies the solution for any decision problems in a finite time with ultra-low current consumption of less than 1 pA.
+0R4CLE receives a decision problem encoded in its original format in UART/SPI/I2C and then outputs the solution for the problem via the OUT pin.
+The serial input method is determined by combining MODE0 and MODE1. The internal state is completely initialized by setting the RESET pin to "L" level.
+
+Features
+・High speed: fmax = 1 GHz (typ.) at VCC = 5 V
+・Low power dissipation: ICC = 1 pA (max) at Ta = 25 ℃
+・Wide operating temperature range: Topr = 0 K (minimum), 5778 K (maximum)
+・Interface: UART, SPI, I2C
+・Can solve any decision problem in a finite time
+・Can solve the halting problem of lower hierarchy by cascading
+
+0R4CLE/P
+0R4CLE/F
+DIP8-P-300-2.54A
+SOP8-P-300-1.27A
+
+Weight
+DIP8-P-300-2.54A: 0.50 g (typ.)
+SOP8-P-300-1.27A: 0.09 g (typ.)
+
+Pin Assignment
+RESET
+RXD/MOSI/SDA
+SCK/SCL
+GND
+VCC
+M0DE1
+MODE0
+OUT
+(TOP VIEW)
+
+9999-01-01

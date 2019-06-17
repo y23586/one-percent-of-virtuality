@@ -1,0 +1,38 @@
+Y23586.NET
+0R4CLE/P, 0R4CLE/F
+요츠미 CMOS 디지털 집적회로 실리콘 모놀리식
+Synchronous Oracle With Reset
+
+0R4CLE은 실리콘 게이트 CMOS 기술을 사용한 신탁(Oracle)입니다. 1pA 이하의 초소모 전류로 임의의 결정문제에 대한 답을 유한시간으로 답합니다.
+0R4CLE은 독자 플랫폼(15쪽)으로 부호화 된 결정문제를 UART・SPI・I2C 중 한 방식으로 수용하고 이 문제에 대한 출력을 OUT 핀을 통해 출력합니다.
+시리얼 입력방식은 MODE0 및 MODE1의 조합으로 결정합니다. 그리고, RESET 핀을 "L" 레벨에 두어 내부 상태를 완전히 초기화 합니다.
+
+특장
+・고속동작：fmax = 1 GHz (표준) (VCC = 5 V)
+・저소비전류：ICC = 1 pA (최대) (Ta = 25 ℃)
+・광범위한 동작온도：Topr = 0 K (최소)、5778 K (최대)
+・인터페이스：UART、SPI、I2C
+・임의의 결정문제를 유한시간으로 해답 가능
+・다단접속에 의한 낮은 수준의 정지문제를 해답 가능
+
+0R4CLE/P
+0R4CLE/F
+DIP8-P-300-2.54A
+SOP8-P-300-1.27A
+
+질량
+DIP8-P-300-2.54A: 0.50 g (표준)
+SOP8-P-300-1.27A: 0.09 g (표준)
+
+핀 접속도
+RESET
+RXD/MOSI/SDA
+SCK/SCL
+GND
+VCC
+M0DE1
+MODE0
+OUT
+(TOP VIEW)
+
+9999-01-01
