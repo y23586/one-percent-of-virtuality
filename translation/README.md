@@ -1,5 +1,5 @@
 The original text was written by ヨツミフレーム (y23586),
-and the English/Korean text was written in [the Crowdin project](https://crowdin.com/project/1-precent-of-virtuality).
+and a part of the English/Korean text was written in [the Crowdin project](https://crowdin.com/project/1-precent-of-virtuality).
 
 ## Contributors
 * [Hibit](https://crowdin.com/profile/hibit_at)

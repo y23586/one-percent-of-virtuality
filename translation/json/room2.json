@@ -1,0 +1,74 @@
+{
+  "room_virtual_visualization": {
+    "ja-JP": "ヴァーチャル・ヴィジュアライゼーション",
+    "en-US": "Virtual Visualization",
+    "ko-KR": "버추얼 비주얼라이제이션",
+    "zh-CN": "虚拟可视化",
+    "zh-TW": "虛擬視覺化",
+    "ru-RU": "Виртуальная визуализация",
+    "es-ES": "Visualización virtual",
+    "pt-BR": "Visualização virtual",
+    "de-DE": "Virtuelle Visualisierung",
+    "fr-FR": "Visualisation virtuelle"
+  },
+  "description_virtual_visualization": {
+    "ja-JP": "この世界に遍在する情報を人間が理解できるようにするために\nつくられる「グラフ」は時に単調で退屈なものです。\nこのスペースでは、そんなグラフをVRで見て楽しむことが\nできるように展示しました。",
+    "en-US": "\"Charts\" are sometimes dull and boring that make people understand meaningful information in this world.\nWorks in this room are designed to entertain the audience in VR.",
+    "ko-KR": "이 세계에 널리 존재하는 정보를 인간이 이해할 수 있도록 만든 \"그래프\"는 때로 단조롭고 지루합니다.\n이 공간에는 그런 그래프를 VR로 보며 즐길 수 있도록 전시했습니다.",
+    "zh-CN": "为了让人类理解遍布这个世界的信息而制作的“图表”，有时显得单调乏味。\n这个空间以让大家能在VR中观赏并享受这些图表的方式进行了展示。",
+    "zh-TW": "為了讓人類理解遍布這個世界的資訊而製作的「圖表」，有時顯得單調乏味。\n這個空間以讓大家能在VR中觀賞並享受這些圖表的方式進行了展示。",
+    "ru-RU": "«Графики», создаваемые для того, чтобы люди могли понять информацию, пронизывающую этот мир, порой однообразны и скучны.\nВ этом пространстве они представлены так,\nчтобы ими можно было любоваться и наслаждаться в VR.",
+    "es-ES": "Los «gráficos» creados para que las personas comprendan la información presente en todo el mundo pueden ser monótonos y aburridos.\nEn este espacio se exponen para que puedan contemplarse y disfrutarse en VR.",
+    "pt-BR": "Os “gráficos” criados para ajudar as pessoas a entender as informações presentes em todo o mundo podem ser monótonos e tediosos.\nNeste espaço, eles são expostos para que possam ser vistos e apreciados em VR.",
+    "de-DE": "„Diagramme“, die allgegenwärtige Informationen für Menschen verständlich machen sollen, sind mitunter eintönig und langweilig.\nIn diesem Raum werden solche Diagramme so präsentiert,\ndass man sie in VR betrachten und genießen kann.",
+    "fr-FR": "Les « graphiques » conçus pour rendre compréhensibles les informations omniprésentes dans ce monde sont parfois monotones et ennuyeux.\nDans cet espace, ils sont exposés de manière à pouvoir être contemplés et appréciés en VR."
+  },
+  "name_my_second_album": {
+    "ja-JP": "二つ目の走馬燈",
+    "en-US": "My Second Album",
+    "ko-KR": "두 번째 주마등",
+    "zh-CN": "第二盏走马灯",
+    "zh-TW": "第二盞走馬燈",
+    "ru-RU": "Мой второй альбом",
+    "es-ES": "Mi segundo álbum",
+    "pt-BR": "Meu segundo álbum",
+    "de-DE": "Mein zweites Album",
+    "fr-FR": "Mon deuxième album"
+  },
+  "description_my_second_album": {
+    "ja-JP": "この作品では作者（y23586）がVRChat\nの世界に訪れてから撮影した写真\n（631枚、1.05 GB、2018年5月～7月）\nの色情報を可視化しました。",
+    "en-US": "This work visualizes color histogram of photos (631 shots, 1.05GB, May to July 2018) taken by me (y23586) since I started to dive into VRChat worlds.",
+    "ko-KR": "이 작품은 작가(y23586)가 VRChat 세계를 방문하기 시작한 뒤 촬영한 사진 (631장, 1.05GB, 2018년 5월~7월)의 색 정보를 시각화했습니다.",
+    "zh-CN": "本作品将作者（y23586）造访VRChat世界后拍摄的照片（631张、1.05 GB、\n2018年5月至7月）的色彩信息进行了可视化。",
+    "zh-TW": "本作品將作者（y23586）造訪VRChat世界後拍攝的照片（631張、1.05 GB、\n2018年5月至7月）的色彩資訊進行了視覺化。",
+    "ru-RU": "В этой работе визуализирована информация о цвете фотографий, сделанных автором (y23586) после прихода в миры VRChat (631 снимок, 1,05 ГБ,\nмай — июль 2018 года).",
+    "es-ES": "Esta obra visualiza la información cromática de las fotos tomadas por el autor (y23586) desde que llegó a los mundos de VRChat (631 fotos, 1,05 GB,\nde mayo a julio de 2018).",
+    "pt-BR": "Esta obra visualiza as informações de cor das fotos tiradas pelo autor (y23586) desde que chegou aos mundos do VRChat (631 fotos, 1,05 GB,\nde maio a julho de 2018).",
+    "de-DE": "Dieses Werk visualisiert die Farbinformationen der Fotos, die der Künstler (y23586) seit seinem Eintritt in die VRChat-Welten aufgenommen hat (631 Bilder, 1,05 GB,\nMai bis Juli 2018).",
+    "fr-FR": "Cette œuvre visualise les informations chromatiques des photos prises par l’artiste (y23586) depuis son arrivée dans les mondes de VRChat (631 photos, 1,05 Go,\nde mai à juillet 2018)."
+  },
+  "name_virtual_youtuber_particle": {
+    "ja-JP": "VTuber Particle",
+    "en-US": "Virtual YouTuber Particle",
+    "ko-KR": "VTuber Particle",
+    "zh-CN": "VTuber粒子",
+    "zh-TW": "VTuber粒子",
+    "ru-RU": "Частицы VTuber",
+    "es-ES": "Partículas VTuber",
+    "pt-BR": "Partículas VTuber",
+    "de-DE": "VTuber-Partikel",
+    "fr-FR": "Particules VTuber"
+  },
+  "description_virtual_youtuber_particle": {
+    "ja-JP": "この作品では「バーチャル」「VTuber」\nの単語が含まれるYouTubeチャンネルの\nうち、上位512チャンネルの登録者数と\nアイコン色をGPUパーティクルで可視化\nしました。\n（上位5チャンネルを星印で表示、\n　2018年9月16日現在）",
+    "en-US": "This work visualizes the number of subscribers and icon colors of YouTube channels by GPU particles, \nthat ranked top 512 containing the word \"Virtual\" or \"VTuber.\"\n\n(Top 5 channels are visualized as stars)\n(As of September 16, 2018)",
+    "ko-KR": "이 작품은 \"버추얼\", \"VTuber\"라는 단어가 포함된 YouTube 채널 가운데 상위 512개 채널의 구독자 수와 아이콘 색상을 GPU 파티클로 시각화 했습니다.\n(상위 5개 채널은 별표로 표시,\n　2018년 9월 16일 기준)",
+    "zh-CN": "本作品使用GPU粒子，将名称中含有“Virtual”或“VTuber”的YouTube频道里，\n排名前512个频道的订阅人数与图标颜色进行了可视化。\n（前5名频道以星号显示，\n　数据截至2018年9月16日）",
+    "zh-TW": "本作品使用GPU粒子，將名稱中含有「Virtual」或「VTuber」的YouTube頻道裡，\n排名前512個頻道的訂閱人數與圖示顏色進行了視覺化。\n（前5名頻道以星號顯示，\n　資料截至2018年9月16日）",
+    "ru-RU": "В этой работе с помощью GPU-частиц визуализированы число подписчиков и цвета значков 512 крупнейших YouTube-каналов, в названии которых есть слова «Virtual» или «VTuber».\n(Пять крупнейших каналов отмечены звёздами;\nданные на 16 сентября 2018 года.)",
+    "es-ES": "Esta obra visualiza mediante partículas de GPU el número de suscriptores y los colores de los iconos de los 512 principales canales de YouTube cuyo nombre contiene «Virtual» o «VTuber».\n(Los 5 primeros se muestran con estrellas;\ndatos del 16 de septiembre de 2018.)",
+    "pt-BR": "Esta obra visualiza com partículas de GPU o número de inscritos e as cores dos ícones dos 512 maiores canais do YouTube cujo nome contém “Virtual” ou “VTuber”.\n(Os 5 maiores são exibidos como estrelas;\ndados de 16 de setembro de 2018.)",
+    "de-DE": "Dieses Werk visualisiert mit GPU-Partikeln die Abonnentenzahlen und Symbolfarben der 512 größten YouTube-Kanäle, deren Namen „Virtual“ oder „VTuber“ enthalten.\n\n(Die fünf größten Kanäle erscheinen als Sterne;\nStand: 16. September 2018.)",
+    "fr-FR": "Cette œuvre visualise, à l’aide de particules GPU, le nombre d’abonnés et les couleurs des icônes des 512 principales chaînes YouTube dont le nom contient « Virtual » ou « VTuber ».\n\n(Les cinq premières chaînes sont représentées par des étoiles ;\ndonnées au 16 septembre 2018.)"
+  }
+}
